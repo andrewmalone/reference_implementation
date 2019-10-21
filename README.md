@@ -1,3 +1,5 @@
+(https://www.enterprisemodules.com/blog/2015/11/using-puppet-to-configure-your-weblogic-infrastructure/)
+(https://github.com/enterprisemodules/reference_implementation)
 # Reference Implementation
 
 This repository contains a reference implementation of our Oracle and WebLogic modules. In here we show you how to use best our modules. 
